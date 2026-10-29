@@ -1,0 +1,7 @@
+source_year,clean_flag,rows_affected
+2019,R5_over_24_hours,192
+2019,keep,364877
+2020,R1_hq_test_ride,3768
+2020,R4_under_60_seconds,3908
+2020,R5_over_24_hours,289
+2020,keep,418922

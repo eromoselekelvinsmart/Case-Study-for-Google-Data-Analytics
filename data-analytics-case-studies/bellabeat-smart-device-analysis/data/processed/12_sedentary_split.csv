@@ -1,0 +1,3 @@
+day_group,user_days,avg_sedentary_min,avg_activity_tracked_min,avg_steps
+Sleep tracked (worn overnight),401,723.0,986.0,8637.0
+No sleep record,443,1187.0,1426.0,8222.0

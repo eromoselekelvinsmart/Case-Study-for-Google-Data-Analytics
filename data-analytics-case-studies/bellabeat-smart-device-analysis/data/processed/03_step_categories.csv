@@ -1,0 +1,6 @@
+step_category,users,pct_of_users
+1 Sedentary (<5k),7,21.2
+2 Low active (5k-7.5k),8,24.2
+3 Somewhat active (7.5k-10k),9,27.3
+4 Active (10k-12.5k),6,18.2
+5 Highly active (>12.5k),3,9.1

@@ -1,0 +1,8 @@
+day_of_week,day_name,user_days,avg_steps,avg_mvpa_min,avg_sedentary_min_awake,avg_minutes_asleep,pct_days_with_sleep
+1,Sunday,110,7627.0,38.0,688.0,453.0,50.0
+2,Monday,110,8488.0,40.5,718.0,420.0,41.8
+3,Tuesday,138,8949.0,41.1,740.0,405.0,47.1
+4,Wednesday,138,8211.0,36.8,714.0,435.0,47.8
+5,Thursday,116,8755.0,38.6,761.0,395.0,48.3
+6,Friday,119,7886.0,34.1,756.0,405.0,47.1
+7,Saturday,113,8947.0,40.4,680.0,419.0,50.4

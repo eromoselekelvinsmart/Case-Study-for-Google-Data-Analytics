@@ -1,0 +1,5 @@
+ride_year,member_casual,rides,avg_ride_min,median_ride_min,yoy_rides_pct
+2019,member,341782,11.3,8.4,
+2020,member,374624,11.6,8.7,9.6
+2019,casual,23095,35.3,23.3,
+2020,casual,44298,40.2,23.1,91.8

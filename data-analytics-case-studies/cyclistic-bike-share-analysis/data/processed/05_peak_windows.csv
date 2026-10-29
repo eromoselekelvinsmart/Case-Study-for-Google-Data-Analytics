@@ -1,0 +1,13 @@
+member_casual,day_type,start_hour,rides,pct_of_type_daytype,peak_rank
+member,Weekday,17,87113,14.58,1
+member,Weekday,8,73756,12.34,2
+member,Weekday,16,66144,11.07,3
+member,Weekend,13,11120,9.37,1
+member,Weekend,14,10905,9.18,2
+member,Weekend,12,10814,9.11,3
+casual,Weekday,17,4312,12.15,1
+casual,Weekday,16,4000,11.27,2
+casual,Weekday,15,3510,9.89,3
+casual,Weekend,14,4618,14.47,1
+casual,Weekend,15,4261,13.35,2
+casual,Weekend,13,4179,13.1,3

@@ -1,0 +1,5 @@
+pair,pearson_r,n_days
+Steps vs calories,0.55,844
+Very active minutes vs calories,0.62,844
+Awake sedentary minutes vs sleep,-0.67,401
+Steps vs minutes asleep,-0.19,401

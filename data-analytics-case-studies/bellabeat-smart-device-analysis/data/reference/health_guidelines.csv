@@ -1,0 +1,10 @@
+metric,threshold_label,lower_bound,upper_bound,unit,source,source_url
+daily_steps,Sedentary,0,4999,steps/day,"Tudor-Locke C. & Bassett D.R. (2004). How many steps/day are enough? Sports Medicine 34(1):1-8",https://pubmed.ncbi.nlm.nih.gov/14715035/
+daily_steps,Low active,5000,7499,steps/day,"Tudor-Locke C. & Bassett D.R. (2004). How many steps/day are enough? Sports Medicine 34(1):1-8",https://pubmed.ncbi.nlm.nih.gov/14715035/
+daily_steps,Somewhat active,7500,9999,steps/day,"Tudor-Locke C. & Bassett D.R. (2004). How many steps/day are enough? Sports Medicine 34(1):1-8",https://pubmed.ncbi.nlm.nih.gov/14715035/
+daily_steps,Active,10000,12500,steps/day,"Tudor-Locke C. & Bassett D.R. (2004). How many steps/day are enough? Sports Medicine 34(1):1-8",https://pubmed.ncbi.nlm.nih.gov/14715035/
+daily_steps,Highly active,12501,,steps/day,"Tudor-Locke C. & Bassett D.R. (2004). How many steps/day are enough? Sports Medicine 34(1):1-8",https://pubmed.ncbi.nlm.nih.gov/14715035/
+daily_steps,Mortality-risk plateau (adults under 60),8000,10000,steps/day,"Paluch A.E. et al. (2022). Daily steps and all-cause mortality: a meta-analysis of 15 international cohorts. The Lancet Public Health",https://hospitalhealthcare.com/specialisms/cardiovascular/mortality-benefit-from-higher-daily-steps-plateaus/
+weekly_activity,Moderate-intensity aerobic activity,150,,minutes/week,"CDC - Adult Activity: An Overview (Physical Activity Guidelines for Americans)",https://cdc.gov/physical-activity-basics/guidelines/adults.html
+weekly_activity,Vigorous-intensity aerobic activity (alternative),75,,minutes/week,"CDC - Adult Activity: An Overview (Physical Activity Guidelines for Americans)",https://cdc.gov/physical-activity-basics/guidelines/adults.html
+nightly_sleep,Recommended sleep for adults 18-60,420,,minutes/night,"CDC (2016) citing AASM and Sleep Research Society: adults 18-60 should sleep 7 or more hours per night",https://archive.cdc.gov/www_cdc_gov/media/releases/2016/p0215-enough-sleep.html

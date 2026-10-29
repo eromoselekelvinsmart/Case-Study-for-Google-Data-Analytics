@@ -1,0 +1,15 @@
+member_casual,day_of_week,day_name,rides,avg_ride_min,median_ride_min
+member,1,Sunday,59697,13.0,9.2
+member,2,Monday,109855,11.2,8.4
+member,3,Tuesday,127363,11.4,8.5
+member,4,Wednesday,121302,11.2,8.5
+member,5,Thursday,124568,11.1,8.4
+member,6,Friday,114588,11.2,8.2
+member,7,Saturday,59033,12.5,8.8
+casual,1,Sunday,18512,41.0,26.8
+casual,2,Monday,5555,34.5,19.9
+casual,3,Tuesday,7265,35.7,19.7
+casual,4,Wednesday,7623,41.3,23.8
+casual,5,Thursday,7085,35.4,20.2
+casual,6,Friday,7954,37.2,19.9
+casual,7,Saturday,13399,39.0,24.2

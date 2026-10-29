@@ -1,0 +1,2 @@
+valid_user_days,users,avg_steps,median_steps,avg_very_active_min,avg_fairly_active_min,avg_lightly_active_min,avg_sedentary_min_all_days,avg_sedentary_min_sleep_tracked_days,avg_sedentary_min_no_sleep_days,avg_calories,pct_days_with_sleep_record
+844,33,8419.0,8162.0,23.4,15.1,212.3,966.0,723.0,1187.0,2388.0,47.5

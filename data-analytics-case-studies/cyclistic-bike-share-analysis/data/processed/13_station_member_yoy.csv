@@ -1,0 +1,123 @@
+start_station_id,station_name,member_rides_janfeb_2019,member_rides_janfeb_2020,station_growth_pct,network_growth_pct,member_trend_flag
+286,Franklin St & Adams St,1088,995,-8.5,35.5,Declining
+91,Clinton St & Washington Blvd,4469,4382,-1.9,35.5,Declining
+638,Clinton St & Jackson Blvd,1608,1580,-1.7,35.5,Declining
+174,Canal St & Madison St,2577,2566,-0.4,35.5,Declining
+299,Halsted St & Roscoe St,539,543,0.7,35.5,Lagging network
+620,Orleans St & Chestnut St (NEXT Apts),506,512,1.2,35.5,Lagging network
+18,Wacker Dr & Washington St,1586,1622,2.3,35.5,Lagging network
+38,Clark St & Lake St,1282,1325,3.4,35.5,Lagging network
+173,Mies van der Rohe Way & Chicago Ave,774,806,4.1,35.5,Lagging network
+198,Green St & Madison St,1014,1057,4.2,35.5,Lagging network
+43,Michigan Ave & Washington St,2216,2329,5.1,35.5,Lagging network
+98,LaSalle St & Washington St,1074,1130,5.2,35.5,Lagging network
+233,Sangamon St & Washington Blvd,584,618,5.8,35.5,Lagging network
+254,Pine Grove Ave & Irving Park Rd,511,541,5.9,35.5,Lagging network
+635,Fairbanks St & Superior St,564,602,6.7,35.5,Lagging network
+264,Stetson Ave & South Water St,1049,1119,6.7,35.5,Lagging network
+143,Sedgwick St & Webster Ave,622,664,6.8,35.5,Lagging network
+414,Canal St & Taylor St,507,551,8.7,35.5,Lagging network
+47,State St & Kinzie St,1336,1467,9.8,35.5,Lagging network
+21,Aberdeen St & Jackson Blvd,836,938,12.2,35.5,Lagging network
+60,Dayton St & North Ave,515,579,12.4,35.5,Lagging network
+327,Sheffield Ave & Webster Ave,644,730,13.4,35.5,Lagging network
+106,State St & Pearson St,677,768,13.4,35.5,Lagging network
+50,Clark St & Ida B Wells Dr,1080,1225,13.4,35.5,Lagging network
+168,Michigan Ave & 14th St,592,675,14.0,35.5,Lagging network
+164,Franklin St & Lake St,1331,1528,14.8,35.5,Lagging network
+44,State St & Randolph St,1230,1420,15.4,35.5,Lagging network
+145,Mies van der Rohe Way & Chestnut St,646,749,15.9,35.5,Lagging network
+49,Dearborn St & Monroe St,1870,2176,16.4,35.5,Lagging network
+636,Orleans St & Hubbard St,591,693,17.3,35.5,Lagging network
+195,Columbus Dr & Randolph St,2517,2961,17.6,35.5,Lagging network
+328,Ellis Ave & 58th St,516,608,17.8,35.5,Growing
+340,Clark St & Wrightwood Ave,727,863,18.7,35.5,Growing
+181,LaSalle St & Illinois St,1052,1249,18.7,35.5,Growing
+142,McClurg Ct & Erie St,1011,1203,19.0,35.5,Growing
+420,Ellis Ave & 55th St,815,972,19.3,35.5,Growing
+39,Wabash Ave & Adams St,936,1124,20.1,35.5,Growing
+37,Dearborn St & Adams St,969,1170,20.7,35.5,Growing
+199,Wabash Ave & Grand Ave,1371,1658,20.9,35.5,Growing
+241,Morgan St & Polk St,897,1096,22.2,35.5,Growing
+229,Southport Ave & Roscoe St,626,766,22.4,35.5,Growing
+112,Green St & Randolph St,678,833,22.9,35.5,Growing
+344,Ravenswood Ave & Lawrence Ave,1149,1413,23.0,35.5,Growing
+33,State St & Van Buren St,720,888,23.3,35.5,Growing
+24,Fairbanks Ct & Grand Ave,1066,1316,23.5,35.5,Growing
+283,LaSalle St & Jackson Blvd,1865,2306,23.6,35.5,Growing
+40,LaSalle St & Adams St,589,730,23.9,35.5,Growing
+89,Financial Pl & Ida B Wells Dr,681,845,24.1,35.5,Growing
+52,Michigan Ave & Lake St,1682,2090,24.3,35.5,Growing
+284,Michigan Ave & Jackson Blvd,618,770,24.6,35.5,Growing
+75,Canal St & Jackson Blvd,756,954,26.2,35.5,Growing
+303,Broadway & Cornelia Ave,540,686,27.0,35.5,Growing
+74,Kingsbury St & Erie St,1340,1703,27.1,35.5,Growing
+117,Wilton Ave & Belmont Ave,846,1075,27.1,35.5,Growing
+211,St. Clair St & Erie St,1381,1757,27.2,35.5,Growing
+84,Milwaukee Ave & Grand Ave,956,1218,27.4,35.5,Growing
+287,Franklin St & Monroe St,2063,2630,27.5,35.5,Growing
+67,Sheffield Ave & Fullerton Ave,1078,1378,27.8,35.5,Growing
+125,Rush St & Hubbard St,897,1155,28.8,35.5,Growing
+96,Desplaines St & Randolph St,716,923,28.9,35.5,Growing
+197,Michigan Ave & Madison St,591,768,29.9,35.5,Growing
+140,Dearborn Pkwy & Delaware Pl,819,1071,30.8,35.5,Growing
+77,Clinton St & Madison St,3846,5033,30.9,35.5,Growing
+364,Larrabee St & Oak St,580,762,31.4,35.5,Growing
+100,Orleans St & Merchandise Mart Plaza,1420,1869,31.6,35.5,Growing
+194,Wabash Ave & Wacker Pl,631,833,32.0,35.5,Growing
+58,Marshfield Ave & Cortland St,1003,1331,32.7,35.5,Growing
+41,Federal St & Polk St,784,1042,32.9,35.5,Growing
+191,Canal St & Monroe St,1304,1738,33.3,35.5,Growing
+26,McClurg Ct & Illinois St,912,1218,33.6,35.5,Growing
+111,Sedgwick St & Huron St,949,1276,34.5,35.5,Growing
+133,Kingsbury St & Kinzie St,2477,3361,35.7,35.5,Growing
+291,Wells St & Evergreen Ave,625,850,36.0,35.5,Growing
+322,Kimbark Ave & 53rd St,605,825,36.4,35.5,Growing
+301,Clark St & Schiller St,634,876,38.2,35.5,Growing
+196,Cityfront Plaza Dr & Pioneer Ct,852,1178,38.3,35.5,Growing
+66,Clinton St & Lake St,1831,2546,39.0,35.5,Growing
+13,Wilton Ave & Diversey Pkwy,762,1061,39.2,35.5,Growing
+80,Aberdeen St & Monroe St,653,910,39.4,35.5,Growing
+81,Daley Center Plaza,1652,2304,39.5,35.5,Growing
+51,Clark St & Randolph St,1114,1557,39.8,35.5,Growing
+134,Peoria St & Jackson Blvd,878,1232,40.3,35.5,Growing
+321,Wabash Ave & 9th St,734,1033,40.7,35.5,Growing
+359,Larrabee St & Division St,541,762,40.9,35.5,Growing
+300,Broadway & Barry Ave,744,1052,41.4,35.5,Growing
+48,Larrabee St & Kingsbury St,1809,2560,41.5,35.5,Growing
+56,Desplaines St & Kinzie St,1382,1959,41.8,35.5,Growing
+156,Clark St & Wellington Ave,507,723,42.6,35.5,Growing
+69,Damen Ave & Pierce Ave,970,1385,42.8,35.5,Growing
+68,Clinton St & Tilden St,534,766,43.4,35.5,Growing
+59,Wabash Ave & Roosevelt Rd,1127,1622,43.9,35.5,Growing
+342,Wolcott Ave & Polk St,722,1039,43.9,35.5,Growing
+210,Ashland Ave & Division St,971,1405,44.7,35.5,Growing
+621,Aberdeen St & Randolph St,521,754,44.7,35.5,Growing
+31,Franklin St & Chicago Ave,855,1239,44.9,35.5,Growing
+110,Dearborn St & Erie St,1362,1988,46.0,35.5,Growing
+289,Wells St & Concord Ln,1024,1496,46.1,35.5,Growing
+73,Jefferson St & Monroe St,592,868,46.6,35.5,Growing
+36,Franklin St & Jackson Blvd,1361,1997,46.7,35.5,Growing
+423,University Ave & 57th St,1010,1485,47.0,35.5,Growing
+212,Wells St & Hubbard St,1255,1846,47.1,35.5,Growing
+71,Morgan St & Lake St,1222,1798,47.1,35.5,Growing
+161,Rush St & Superior St,762,1122,47.2,35.5,Growing
+94,Clark St & Armitage Ave,667,995,49.2,35.5,Growing
+182,Wells St & Elm St,774,1177,52.1,35.5,Growing
+175,Wells St & Polk St,578,881,52.4,35.5,Growing
+304,Broadway & Waveland Ave,532,811,52.4,35.5,Growing
+108,Halsted St & Polk St,533,814,52.7,35.5,Growing
+227,Southport Ave & Waveland Ave,527,806,52.9,35.5,Growing
+53,Wells St & Huron St,1276,1996,56.4,35.5,Growing
+240,Sheridan Rd & Irving Park Rd,746,1170,56.8,35.5,Growing
+176,Clark St & Elm St,1114,1778,59.6,35.5,Growing
+192,Canal St & Adams St,3659,5849,59.9,35.5,Growing
+426,Ellis Ave & 60th St,640,1027,60.5,35.5,Growing
+337,Clark St & Chicago Ave,526,853,62.2,35.5,Growing
+107,Desplaines St & Jackson Blvd,914,1493,63.3,35.5,Growing
+113,Bissell St & Armitage Ave,581,970,67.0,35.5,Growing
+118,Sedgwick St & North Ave,564,942,67.0,35.5,Growing
+90,Millennium Park,540,915,69.4,35.5,Growing
+255,Indiana Ave & Roosevelt Rd,767,1328,73.1,35.5,Growing
+331,Halsted St & Clybourn Ave,683,1252,83.3,35.5,Growing
+320,Loomis St & Lexington St,558,1024,83.5,35.5,Growing

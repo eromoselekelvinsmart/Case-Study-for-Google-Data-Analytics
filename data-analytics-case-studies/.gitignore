@@ -1,0 +1,16 @@
+# Divvy raw trip files are too large for GitHub (see cyclistic-bike-share-analysis/data/raw/README.md)
+cyclistic-bike-share-analysis/data/raw/*.csv
+cyclistic-bike-share-analysis/data/raw/*.zip
+
+# DuckDB databases (rebuilt by sql/run_all.sql)
+*.duckdb
+*.duckdb.wal
+
+# Office lock / temp files
+~$*
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini

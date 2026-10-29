@@ -1,0 +1,7 @@
+ride_year,ride_month,month_name,member_rides,casual_rides,member_avg_min,casual_avg_min,casual_share_pct
+2019,1,Jan,98601,4591,11.5,33.6,4.4
+2019,2,Feb,93522,2627,11.2,29.3,2.7
+2019,3,Mar,149659,15877,11.3,36.8,9.6
+2020,1,Jan,134875,7678,10.9,37.9,5.4
+2020,2,Feb,125393,12205,11.1,39.4,8.9
+2020,3,Mar,114356,24415,13.1,41.2,17.6

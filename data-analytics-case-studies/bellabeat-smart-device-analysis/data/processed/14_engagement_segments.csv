@@ -1,0 +1,5 @@
+segment,users,avg_steps,avg_valid_days,avg_pct_days_with_sleep
+1 Drop-off risk (worn < 25 of 30 days),12,6091.0,18.3,29.9
+2 Daytime-only wearer (sleep on < 50% of days),9,9274.0,30.0,4.8
+"3 Engaged, low activity (< 7,500 steps/day)",2,5194.0,30.0,90.0
+4 Engaged and active,10,9794.0,29.5,90.2

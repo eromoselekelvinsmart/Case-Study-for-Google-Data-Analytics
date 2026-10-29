@@ -1,0 +1,4 @@
+sleep_tracking_habit,users,avg_steps,avg_valid_days
+Mostly (50%+ of days),16,8385.0,26.9
+Never tracks sleep,9,8248.0,23.9
+Sometimes (<50% of days),8,7061.0,24.9
