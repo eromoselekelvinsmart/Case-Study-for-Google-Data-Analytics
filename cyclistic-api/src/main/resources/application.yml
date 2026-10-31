@@ -1,0 +1,35 @@
+spring:
+  application:
+    name: cyclistic-api
+  datasource:
+    url: jdbc:h2:mem:cyclistic;DB_CLOSE_DELAY=-1
+    username: sa
+    password:
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+    open-in-view: false
+  h2:
+    console:
+      enabled: true          # browse the data at /h2-console (JDBC URL above)
+  jackson:
+    serialization:
+      write-dates-as-timestamps: false
+
+cyclistic:
+  data:
+    load: true
+    # Default: bundled synthetic sample (2,000 rows) so the app runs out of the box.
+    # Point at the real Divvy data with: --cyclistic.data.location=/path/to/divvy-csv-folder
+    location: classpath:data/sample-trips.csv
+    batch-size: 5000
+
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info
